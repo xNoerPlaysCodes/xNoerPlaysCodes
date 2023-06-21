@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @xNoerPlaysCodes
-- 👀 I’m interested in Java Script
-- 🌱 I’m currently learning JS
-- 💞️ I’m looking to collaborate on ...
-- 📫 Dm on Discord! xNoerPlays#4398
+- 👀 I’m interested in Java & x86 Assembly
+- 🌱 I’m currently learning Java
+- 📫 Dm on Discord! xNoerLinux#6343
 
 <!---
 xNoerPlaysCodes/xNoerPlaysCodes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
