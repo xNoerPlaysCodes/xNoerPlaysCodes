@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @xNoerPlaysCodes
 - 👀 I’m interested in Java & x86 Assembly
-- 🌱 I’m currently learning Java
+- 🌱 I’m currently learning Python
 - 📫 Dm on Discord! noerlol#0
 
 <!---
