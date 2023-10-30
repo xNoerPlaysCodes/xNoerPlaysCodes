@@ -1,9 +1,3 @@
-- 👋 Hi, I’m @xNoerPlaysCodes
-- 👀 I’m interested in Java & x86 Assembly
-- 🌱 I’m currently learning Python
-- 📫 Dm on Discord! noerlol#0
+yo. im learning C++ rn so if you wanna help i would love that lol....
 
-<!---
-xNoerPlaysCodes/xNoerPlaysCodes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+discord: noerlol#0000
