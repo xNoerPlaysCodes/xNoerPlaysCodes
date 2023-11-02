@@ -1,14 +1,15 @@
-#include <python> <br>
-#include <c++><br>
-<br>
-int python() {<br>
-  float experience = 1.2 years;<br>
-  str libs[] = {"discord"};<br>
-}<br>
-<br>
-int cpp() {<br>
-  float experience = 1 month;<br>
-  str libs[] = {"discord", "sfml"};<br>
-} <br>
-<br>
+```cpp
+#include <python>
+#include <c++>
+
+int python() {
+  float experience = 1.2 years;
+  str libs[] = {"discord"};
+}
+
+int cpp() {
+  float experience = 1 month;
+  str libs[] = {"discord", "sfml"};
+} 
+```
 discord: noerlol#0000
