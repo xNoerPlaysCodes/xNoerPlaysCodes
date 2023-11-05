@@ -9,7 +9,7 @@ int python() {
 
 int cpp() {
   float experience = 1 month;
-  str libs[] = {"discord", "sfml"};
+  str libs[] = {"sfml"};
 } 
 ```
 discord: noerlol#0000
