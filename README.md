@@ -8,8 +8,8 @@ int python() {
 }
 
 int cpp() {
-  float experience = 1 month;
-  str libs[] = {"sfml"};
+  float experience = 6 month;
+  str libs[] = {"i dont even know anymore..."};
 } 
 ```
 discord: noerlol#0000
