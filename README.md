@@ -1,6 +1,7 @@
 ```cpp
 #include <python>
 #include <c++>
+import net.noerlol.experiences.programming.programminglanguages.languages.Java;
 
 int python() {
   float experience = 1.2 years;
@@ -12,9 +13,10 @@ int cpp() {
   str libs[] = {"i dont even know anymore..."};
 }
 
-public static void main(String[] Args) {
-  double expierience = 1 month;
-  String libs[1] = new String;
+public static void main(String[] args) {
+  double expierience = 6 month;
+  String[] libs = new String[1];
   libs[0] = "Paper, Spigot Plugins"
+}
 ```
 discord: noerlol#0000
