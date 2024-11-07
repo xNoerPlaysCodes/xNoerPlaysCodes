@@ -1,20 +1,20 @@
 ```cpp
 #include <python>
 #include <c++>
-import net.noerlol.experiences.programming.programminglanguages.languages.Java;
+import net.noerlol.experiences.programming.programminglanguages.Java;
 
 int python() {
-  float experience = 1.2 years;
-  str libs[] = {"discord"};
+  experience: float = 8 months;
+  libs: list[str] = ["discord"];
 }
 
 int cpp() {
-  float experience = 6 month;
-  str libs[] = {"i dont even know anymore..."};
+  float experience = 1 year;
+  std::string libs[] = {"(very low) OpenGL", "GLFW", "(very low) OpenAL", "GLEW", "(very low) GLU", "Raylib"};
 }
 
 public static void main(String[] args) {
-  double expierience = 6 month;
+  double experience = 7 months;
   String[] libs = new String[1];
   libs[0] = "Paper, Spigot Plugins"
 }
