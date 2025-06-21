@@ -9,14 +9,14 @@ int python() {
 }
 
 int cpp() {
-  float experience = 1 year;
+  float experience = 2 year;
   std::string libs[] = {"(very low) OpenGL", "GLFW", "(very low) OpenAL", "GLEW", "(very low) GLU", "Raylib"};
 }
 
 public static void main(String[] args) {
-  double experience = 7 months;
+  double experience = 1yr 6mth;
   String[] libs = new String[1];
   libs[0] = "Paper, Spigot Plugins"
 }
 ```
-discord: noerlol#0000
+discord: @xxdplays
