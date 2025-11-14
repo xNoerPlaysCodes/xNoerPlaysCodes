@@ -39,3 +39,9 @@ If you like clean, fast, and powerful tools for game dev, you'll love my project
 ### RLSL
 - **Description:** A custom GLSL metadata language to manage your shaders effectively and easily.
 - **Check it out:** [Parser Source](https://github.com/xNoerPlaysCodes/rocket-runtime/blob/master/src/rocket/shader.cpp), [Shader Example](https://github.com/xNoerPlaysCodes/rocket-runtime/blob/master/bin/resources/custom_shader.rlsl)
+
+---
+
+## Contributions
+
+- aristocratos/btop
