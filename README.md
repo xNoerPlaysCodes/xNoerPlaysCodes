@@ -44,4 +44,4 @@ If you like clean, fast, and powerful tools for game dev, you'll love my project
 
 ## Contributions
 
-- aristocratos/btop
+- [aristocratos/btop](https://github.com/aristocratos/btop/issues/1354)
