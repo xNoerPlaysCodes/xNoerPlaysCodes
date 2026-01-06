@@ -1,47 +1,17 @@
-# Hi, I'm xNoerPlaysCodes! 👋
+# Hey I'm noerlol.
 
-I'm a C++ Library & Game Developer passionate about Graphics Programming with OpenGL.  
-If you like clean, fast, and powerful tools for game dev, you'll love my projects!  
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrainsMonoNF-Regular&size=21&pause=1000&width=435&lines=C%2B%2B+and+Graphics+Developer;Game+Engine+Developer;Low+Level+Enthusiast)](https://git.io/typing-svg)
 
----
+[![My Skills](https://skillicons.dev/icons?i=neovim,arch,python,java,cpp&theme=dark&perline=5)](https://skillicons.dev)
 
-## 🚀 Projects
-
+## Projects
 ### RocketGE
-- **Description:** A simple yet powerful C++ Game Engine for all your game-development needs.  
-- **Check it out:** [GitHub Repo](https://github.com/xNoerPlaysCodes/rocket-runtime)  
-- **Highlights:**  
-  - Easy-to-use engine core  
-  - Integrated OpenGL support  
-  - Lightweight and performance-focused  
-
----
-
-### rGL
-- **Description:** A minimal OpenGL wrapper library that makes graphics programming simpler and more intuitive.  
-- **Check it out:** [rGL Source](https://github.com/xNoerPlaysCodes/rocket-runtime/blob/master/src/rocket/rgl.cpp)  
-- **Highlights:**  
-  - Wraps complex OpenGL calls into clean functions  
-  - Great for beginners and pros alike  
-  - Reduces boilerplate while maintaining performance  
-
----
-
-### AstroUI
-- **Description:** Fast and beautiful UI library for creating responsive and smooth interfaces in your C++ apps.  
-- **Check it out:** [AstroUI Source](https://github.com/xNoerPlaysCodes/rocket-runtime/blob/master/src/astro/astroui.cpp)  
-- **Highlights:**  
-  - High-performance UI rendering  
-  - Simple API for building interfaces  
-  - Lightweight and modern design
----
-
-### RLSL
-- **Description:** A custom GLSL metadata language to manage your shaders effectively and easily.
-- **Check it out:** [Parser Source](https://github.com/xNoerPlaysCodes/rocket-runtime/blob/master/src/rocket/shader.cpp), [Shader Example](https://github.com/xNoerPlaysCodes/rocket-runtime/blob/master/bin/resources/custom_shader.rlsl)
-
----
+- Lightweight and Powerful 2D Game Engine
+- Check it out [here](https://github.com/xNoerPlaysCodes/rocket-runtime)
+- Some Features:
+    - Easy-to-use renderer
+    - Performant OpenGL
+    - Cross-platform in nature
 
 ## Contributions
-
-- [aristocratos/btop](https://github.com/aristocratos/btop/issues/1354)
+- [aristocratos/btop](https://github.com/aristocratos/btop)
