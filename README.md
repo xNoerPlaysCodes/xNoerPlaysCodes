@@ -9,9 +9,9 @@
 - Lightweight and Powerful 2D Game Engine
 - Check it out [here](https://github.com/xNoerPlaysCodes/rocket-runtime)
 - Some Features:
-    - Easy-to-use renderer
-    - Performant OpenGL
-    - Cross-platform in nature
+    - Simple API
+    - Performant Renderer
+    - Cross-platform code
 
 ## Contributions
 - [aristocratos/btop](https://github.com/aristocratos/btop)
