@@ -12,6 +12,14 @@
     - Simple API
     - Performant Renderer
     - Cross-platform code
+### Smake
+- Simple build utility for low-level C++ projects
+- Check it out [here](https://github.com/xNoerPlaysCodes/smake)
+- Some Features:
+    - Custom build file language (build.smake)
+    - YAML Project config
+    - Custom compiler and linker
+    - Modular interface
 
 ## Contributions
 - [aristocratos/btop](https://github.com/aristocratos/btop)
