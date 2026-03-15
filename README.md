@@ -11,7 +11,7 @@
 - Some Features:
     - Simple API
     - Performant Renderer
-    - Cross-platform code
+    - TrueCrossPlatform (Linux, macOS, Windows, Android)
 ### Smake
 - Simple build utility for low-level C++ projects
 - Check it out [here](https://github.com/xNoerPlaysCodes/smake)
