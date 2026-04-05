@@ -9,9 +9,9 @@
 - Lightweight and Powerful 2D Game Engine
 - Check it out [here](https://github.com/xNoerPlaysCodes/rocket-runtime)
 - Some Features:
-    - Simple API
-    - Performant Renderer
-    - TrueCrossPlatform (Linux, macOS, Windows, Android)
+    - Simple and easy-to-use API
+    - Cross-API Renderer
+    - Supports all major platforms: Linux, macOS, Windows, Android
 ### Smake
 - Simple build utility for low-level C++ projects
 - Check it out [here](https://github.com/xNoerPlaysCodes/smake)
