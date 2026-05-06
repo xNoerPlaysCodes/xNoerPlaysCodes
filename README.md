@@ -23,3 +23,4 @@
 
 ## Contributions
 - [aristocratos/btop](https://github.com/aristocratos/btop)
+- [cppdiscord/bot](https://github.com/cppdiscord)
