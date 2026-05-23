@@ -1,8 +1,10 @@
 # hey, I'm noerlol.
 
+C++ developer specializing in game engines and low-level systems.
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrainsMonoNF-Regular&size=21&pause=1000&width=435&lines=C%2B%2B+and+Graphics+Developer;Game+Engine+Developer;Low+Level+Enthusiast)](https://git.io/typing-svg)
 
-[![My Skills](https://skillicons.dev/icons?i=neovim,arch,python,java,cpp&theme=dark&perline=5)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cpp,cmake,linux,neovim,arch&theme=dark&perline=5)](https://skillicons.dev)
 
 ## Projects
 ### RocketGE
@@ -10,17 +12,18 @@
 - Check it out [here](https://github.com/xNoerPlaysCodes/rocket-runtime)
 - Some Features:
     - Simple and easy-to-use API
-    - Cross-API Renderer
-    - Supports all major platforms: Linux, macOS, Windows, Android
-### Smake
-- Simple build utility for low-level C++ projects
-- Check it out [here](https://github.com/xNoerPlaysCodes/smake)
+    - Lightweight Renderer
+    - Dead-simple Asset Management
+    - Supports major platforms: Windows, **Linux**, Android
+    - First-class Linux support!
+### kSTL
+- A freestanding and minimal implementation of the C++ Standard Template Library (STL)
+- Check it out [here](https://github.com/xNoerPlaysCodes/kSTL)
 - Some Features:
-    - Custom build file language (build.smake)
-    - YAML Project config
-    - Custom compiler and linker
-    - Modular interface
+    - Mostly standards-compliant
+    - Fully freestanding
+    - No dependencies
 
 ## Contributions
-- [aristocratos/btop](https://github.com/aristocratos/btop)
-- [cppdiscord/bot](https://github.com/cppdiscord)
+- [aristocratos/btop](https://github.com/aristocratos/btop) (Issue)
+- [cppdiscord/bot](https://github.com/cppdiscord) (Multiple PRs)
