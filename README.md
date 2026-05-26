@@ -23,6 +23,14 @@ C++ developer specializing in game engines and low-level systems.
     - Mostly standards-compliant
     - Fully freestanding
     - No dependencies
+### TodOS
+- A recreational C++ Kernel & Operating System
+- Check it out [here](https://github.com/xNoerPlaysCodes/TodOS)
+- Some Features:
+    - Object Oriented Design
+    - Uses kSTL in it's code allowing for easy development
+    - Uses Grub as it's bootloader
+    - Simple Driver Model
 
 ## Contributions
 - [aristocratos/btop](https://github.com/aristocratos/btop) (Issue)
