@@ -12,7 +12,8 @@ C++ developer specializing in game engines and low-level systems.
 - Check it out [here](https://github.com/xNoerPlaysCodes/rocket-runtime)
 - Some Features:
     - Simple and easy-to-use API
-    - Lightweight Renderer
+    - Powerful Runtime Tools
+    - Lightweight OpenGL Renderer
     - Dead-simple Asset Management
     - Supports major platforms: Windows, **Linux**, Android
     - First-class Linux support!
