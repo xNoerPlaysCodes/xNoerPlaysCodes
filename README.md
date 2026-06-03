@@ -29,8 +29,8 @@ C++ developer specializing in game engines and low-level systems.
 - Check it out [here](https://github.com/xNoerPlaysCodes/TodOS)
 - Some Features:
     - Object Oriented Design
-    - Uses kSTL in it's code allowing for easy development
-    - Uses Grub as it's bootloader
+    - Uses kSTL in its code allowing for easy development
+    - Uses Grub as its bootloader
     - Simple Driver Model
 
 ## Contributions
