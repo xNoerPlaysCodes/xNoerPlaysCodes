@@ -34,5 +34,5 @@ C++ developer specializing in game engines and low-level systems.
     - Simple Driver Model
 
 ## Contributions
-- [aristocratos/btop](https://github.com/aristocratos/btop) (Issue)
-- [cppdiscord/bot](https://github.com/cppdiscord) (Multiple PRs)
+- [aristocratos/btop](https://github.com/aristocratos/btop) — [#1354](https://github.com/aristocratos/btop/issues/1354), [#1784](https://github.com/aristocratos/btop/pull/1784), [#1430](https://github.com/aristocratos/btop/issues/1430)
+- [cppdiscord/bot](https://github.com/cppdiscord/bot) — [#27](https://github.com/cppdiscord/bot/pull/27)
