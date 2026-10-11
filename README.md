@@ -24,15 +24,17 @@ C++ developer specializing in game engines and low-level systems.
     - Mostly standards-compliant
     - Fully freestanding
     - No dependencies
-### TodOS
-- A recreational C++ Kernel & Operating System
-- Check it out [here](https://github.com/xNoerPlaysCodes/TodOS)
+### Iris
+(IN DEVELOPMENT)
+- Cross-platform OpenGL/ES 2D game engine.
+- Check it out [here](https://github.com/xNoerPlaysCodes/Iris)
 - Some Features:
-    - Object Oriented Design
-    - Uses kSTL in its code allowing for easy development
-    - Uses Grub as its bootloader
-    - Simple Driver Model
+  - Simple and easy-to-use API
+  - STL-inspired schema and layout
+  - Lightweight OpenGL/ES Renderer
+  - Dead-simple Asset Management
+  - Multitude of Support Platforms: Windows, Linux, macOS, Android, (iOS coming soon)
 
 ## Contributions
-- [aristocratos/btop](https://github.com/aristocratos/btop) — [#1354](https://github.com/aristocratos/btop/issues/1354), [#1784](https://github.com/aristocratos/btop/pull/1784), [#1430](https://github.com/aristocratos/btop/issues/1430)
-- [cppdiscord/bot](https://github.com/cppdiscord/bot) — [#27](https://github.com/cppdiscord/bot/pull/27)
+- [aristocratos/btop](https://github.com/aristocratos/btop) — I:[#1354](https://github.com/aristocratos/btop/issues/1354), PR:[#1784](https://github.com/aristocratos/btop/pull/1784), I:[#1430](https://github.com/aristocratos/btop/issues/1430)
+- [cppdiscord/bot](https://github.com/cppdiscord/bot) — PR:[#27](https://github.com/cppdiscord/bot/pull/27)
