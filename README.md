@@ -1,6 +1,6 @@
 # hey, I'm noerlol.
 
-C++ developer specializing in game engines and low-level systems.
+C++ developer specializing in emulators.
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrainsMonoNF-Regular&size=21&pause=700&width=435&lines=C%2B%2B+Developer;Emulator+Developer)](https://git.io/typing-svg)
 
