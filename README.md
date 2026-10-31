@@ -24,16 +24,14 @@ C++ developer specializing in emulators.
     - Mostly standards-compliant
     - Fully freestanding
     - No dependencies
-### Iris
-(IN DEVELOPMENT)
-- Cross-platform OpenGL/ES 2D game engine.
-- Check it out [here](https://github.com/xNoerPlaysCodes/Iris)
+### Zarkitek
+- Zarkitek is a 64-bit game-focused toy recreational architecture inspired by x86_64 and AArch64.
+- Check it out [here](https://github.com/xNoerPlaysCodes/Zarkitek)
 - Some Features:
-  - Simple and easy-to-use API
-  - STL-inspired schema and layout
-  - Lightweight OpenGL/ES Renderer
-  - Dead-simple Asset Management
-  - Multitude of Support Platforms: Windows, Linux, macOS, Android, (iOS coming soon)
+   - 64-bit
+   - Game-focused
+   - Inspired by x86_64 and AArch64
+   - Simple encoding
 
 ## Contributions
 - [aristocratos/btop](https://github.com/aristocratos/btop) — I:[#1354](https://github.com/aristocratos/btop/issues/1354), PR:[#1784](https://github.com/aristocratos/btop/pull/1784), I:[#1430](https://github.com/aristocratos/btop/issues/1430)
