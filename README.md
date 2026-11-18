@@ -24,15 +24,23 @@ C++ developer specializing in emulators.
     - Mostly standards-compliant
     - Fully freestanding
     - No dependencies
-### Zarkitek
-- Zarkitek is a 64-bit game-focused toy recreational architecture inspired by x86_64 and AArch64.
-- Check it out [here](https://github.com/xNoerPlaysCodes/Zarkitek)
+### SSR
+- ***S***uper ***S***mall ***R***ISC-*ish* architecture.
+- Check it out [here](https://github.com/xNoerPlaysCodes/ssr)
 - Some Features:
-   - 64-bit
-   - Game-focused
-   - Inspired by x86_64 and AArch64
-   - Simple encoding
-
+    - Made for decoding, and encoding simplicity.
+    - Relatively small program sizes.
+    - CISC with uniform instructions sizes.
+    - Custom Assembler.
+    - Custom Emulator.
+    - Hardware Emulation (PLANNED)
+    - Native 32-bit and 64-bit addressing.
+    - Privileged mode execution.
+    - Runtime word size switching via software.
+    - Custom OS (PLANNED)
+    - Easy-to-understand assembly.
+    - MIPS-inspired Function Calling Convention.
+    - And much more...
 ## Contributions
 - [aristocratos/btop](https://github.com/aristocratos/btop) — I:[#1354](https://github.com/aristocratos/btop/issues/1354), PR:[#1784](https://github.com/aristocratos/btop/pull/1784), I:[#1430](https://github.com/aristocratos/btop/issues/1430)
 - [cppdiscord/bot](https://github.com/cppdiscord/bot) — PR:[#27](https://github.com/cppdiscord/bot/pull/27)
